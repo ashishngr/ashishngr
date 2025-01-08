@@ -54,10 +54,18 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishngr&repo=TodoPlan&theme=react&hide_border=true" alt="Todo Plan">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ashishngr/RoleTasker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishngr&repo=eassy-quiz&theme=react&hide_border=true" alt="Role Tasker Mobile Applicaton">
+  </a>
+</p>
+
 
 - **[Eassy Quiz Application](https://github.com/ashishngr/eassy-quiz)**: A full-stack quiz application with dynamic quiz generation, secure link sharing, and real-time leaderboard. Built using the MERN stack and Socket.IO for real-time data exchange.
   
 - **[Todo Plan](https://github.com/ashishngr/TodoPlan)**: A web app where you can manage your daily tasks efficiently. Designed for seamless task management with a focus on simplicity and productivity.
+- **[Role Tasker](https://github.com/ashishngr/RoleTasker)**: RoleTasker is an innovative **task management mobile application** built using **React Native**. The application is designed to streamline task assignments and tracking by catering to three distinct types of users: **Admin**, **Assigner**, and **Worker**. With its user-friendly interface and role-specific features, RoleTasker ensures efficient collaboration and effective task handling.
+- 
 
 ---
 
