@@ -65,8 +65,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - **[Todo Plan](https://github.com/ashishngr/TodoPlan)**: A web app where you can manage your daily tasks efficiently. Designed for seamless task management with a focus on simplicity and productivity.
   
 - **[Role Tasker](https://github.com/ashishngr/RoleTasker)**: RoleTasker is an innovative **task management mobile application** built using **React Native**. The application is designed to streamline task assignments and tracking by catering to three distinct types of users: **Admin**, **Assigner**, and **Worker**. With its user-friendly interface and role-specific features, RoleTasker ensures efficient collaboration and effective task handling.
-- 
-
+  
 ---
 
 ## 📊 GitHub Stats
