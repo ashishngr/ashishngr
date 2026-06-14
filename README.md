@@ -1,97 +1,129 @@
 # Hi there 👋, I'm Ashish Nagar
 
-### Elevating Digital Experiences, One Line of Code at a Time.
+### Full Stack + AI Application Engineer — Building Production-Grade Products, One Feature at a Time.
 
 ---
 
 ## About Me
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, beginner-level Prompt Engineer 🤖 ) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
+I'm a Full Stack Engineer with 5 years of experience building scalable web applications and AI-powered products. I work across the entire stack — from React frontends to Node.js backends to GenAI pipelines — and I'm passionate about shipping things that actually work in production.
+
+Recently I've been going deep on AI application engineering: multi-agent systems, RAG pipelines, LLM integrations, and agentic workflows. I don't just bolt AI onto products — I build it into the core.
 
 ---
 
 ### 🧐 More About Me
 
-- 🔭 I’m currently working on a **Quiz Application** that challenges users with dynamic quizzes.
-- 🤝 I’m looking to collaborate on projects that push the boundaries of **Full Stack Development**.
-- 🌱 I’m currently learning **AWS** and diving deeper into **System Design** to enhance my development skills.
-- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/ashishngr/eassy-quiz).
-- 💬 Ask me about anything tech-related; I’m happy to help!
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ashish-nagar-dev/).
+- 🔭 Currently building **ResearchMind** — a multi-agent AI research assistant using LangGraph, pgvector, Redis, and FastAPI
+- 🤖 Passionate about **GenAI application engineering** — agents, RAG, LLM integrations, and making AI reliable in production
+- 🌱 Going deeper into **System Design**, **AWS**, and **agentic AI architectures**
+- 💬 Ask me about React, Node.js, TypeScript, LangChain, or building full-stack AI products
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashish-nagar-dev/) or nagarashish1806@gmail.com
+- ⚡ Immediate joiner — open to remote and Bangalore-based opportunities
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI">
-  <img src="https://img.shields.io/badge/shadcn-Tailwind_CSS?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Shadcn">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### AI / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00C7B7?style=for-the-badge&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Databases & Infra
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ashishngr/eassy-quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishngr&repo=eassy-quiz&theme=react&hide_border=true" alt="Eassy Quiz Application">
-  </a>
-  <a href="https://github.com/ashishngr/TodoPlan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishngr&repo=TodoPlan&theme=react&hide_border=true" alt="Todo Plan">
-  </a>
-  <a href="https://github.com/ashishngr/RoleTasker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishngr&repo=RoleTasker&theme=react&hide_border=true" alt="Role Tasker Mobile Application">
-  </a>
-</p>
+### 🤖 ResearchMind — Multi-Agent AI Research Assistant
+A three-agent LangGraph pipeline that handles research end-to-end: retrieval → synthesis → report generation. Built with pgvector for semantic search, Redis for caching, FastAPI backend, React/TypeScript frontend, and SSE for real-time streaming.
 
+**Stack:** LangGraph · pgvector · Redis · FastAPI · React · TypeScript · Docker Compose
 
+[View on GitHub →](https://github.com/ashishngr)
 
-- **[Eassy Quiz Application](https://github.com/ashishngr/eassy-quiz)**: A full-stack quiz application with dynamic quiz generation, secure link sharing, and real-time leaderboard. Built using the MERN stack and Socket.IO for real-time data exchange.
-  
-- **[Todo Plan](https://github.com/ashishngr/TodoPlan)**: A web app where you can manage your daily tasks efficiently. Designed for seamless task management with a focus on simplicity and productivity.
-  
-- **[Role Tasker](https://github.com/ashishngr/RoleTasker)**: RoleTasker is an innovative **task management mobile application** built using **React Native**. The application is designed to streamline task assignments and tracking by catering to three distinct types of users: **Admin**, **Assigner**, and **Worker**. With its user-friendly interface and role-specific features, RoleTasker ensures efficient collaboration and effective task handling.
-  
+---
+
+### 📝 Eassy Quiz — Real-time Quiz Platform
+Full-stack quiz application with dynamic quiz generation, secure link sharing, and a real-time leaderboard. Socket.IO powers the live updates across concurrent users.
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.IO
+
+[View on GitHub →](https://github.com/ashishngr/eassy-quiz)
+
+---
+
+### ✅ TodoPlan — Task Management Web App
+Clean, focused task management app built for simplicity and productivity. Full MERN stack with a focus on UX and performance.
+
+**Stack:** React · Node.js · Express · MongoDB
+
+[View on GitHub →](https://github.com/ashishngr/TodoPlan)
+
+---
+
+### 📱 RoleTasker — Role-Based Task Management App
+React Native mobile app for multi-role task management (Admin / Assigner / Worker). Streamlines task assignment, tracking, and collaboration across teams.
+
+**Stack:** React Native · Node.js · MongoDB
+
+[View on GitHub →](https://github.com/ashishngr/RoleTasker)
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashishngr&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishngr&theme=react&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishngr&theme=react&hide_border=true" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishngr&layout=compact&theme=react&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
-## 📧 Contact Me
+## 📧 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-nagar-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ashish-nagar-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/aashishnagar01?s=11" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/aashishnagar01">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="mailto:nagarashish1806@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:nagarashish1806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://bit.ly/ashish-nagar-resume">
+    <img src="https://img.shields.io/badge/Resume-00C7B7?style=for-the-badge&logo=readme&logoColor=white">
   </a>
 </p>
 
 ---
 
-### ✨ Thanks for visiting my profile!
+### ✨ Open to remote and Bangalore-based Full Stack + AI Engineer roles. Let's build something great together!
